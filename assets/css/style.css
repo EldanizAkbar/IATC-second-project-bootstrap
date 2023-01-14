@@ -1,0 +1,53 @@
+nav{
+    border-bottom: 2px solid rgba(128, 128, 128, 0.377);
+}
+.logo{
+    background-color: #05c296;
+    color: white;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.055);
+}
+.info{
+    background-color: white;
+}
+.me{
+    color: #05c296;
+}
+.links{
+    background-color: white;
+}
+
+.logos{
+    width: 100%;
+    height: 70px;
+}
+.full{
+    border-top: 8px solid #05c296;
+    background-color: rgba(0, 0, 0, 0.227);
+    margin-top: 150px !important;
+}
+.copy{
+    color: white;
+}
+.copy a{
+    text-decoration: none;
+    color: #05c296;
+
+}
+.submit{
+    background-color: #05c296 !important;
+    border: #05c296 !important;
+}
+
+.title{
+    color: white;
+    background-color: #05c296;
+    text-align: center;
+    width: 93%;
+    top: 85%;
+    margin: 0, 12px;
+}
+.proj_img{
+    height: 280px;
+}
